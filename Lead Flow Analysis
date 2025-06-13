@@ -1,0 +1,24 @@
+# 📈 Lead Flow Analysis Dashboard
+
+## 🎯 Objective
+To track and optimize the lead-to-customer journey, identifying drop-off stages and lead source effectiveness.
+
+## 🔧 Tools Used
+Power BI, Excel, DAX
+
+## 🧠 Features
+- Funnel visualization from Lead → Contact → Opportunity → Customer
+- Drop-off and conversion analysis
+- Time to conversion & lead aging metrics
+- Source-wise filtering and performance insights
+
+## 📊 Results
+- Identified a 42% drop-off between contact and opportunity stages
+- Helped improve lead handling by reducing response time by 30%
+
+## 📂 Files
+- `"C:\Users\User33\Downloads\Lead Flow Analysis.pbix"`: Power BI dashboard file
+- `Lead-Funnel-Dashboard.pdf`: Snapshot of the dashboard
+
+## 🔗 Links
+- [Return to Portfolio Home](../README.md)
