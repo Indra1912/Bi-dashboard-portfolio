@@ -10,7 +10,7 @@ Each project includes the problem statement, tools used, interactive visual desi
 ### 1. [HR Analytics Dashboard](./HR-Analytics-Dashboard)
 Analyzes hiring efficiency, attrition rates, and workforce distribution from 1,000+ employee records.
 
-### 2. [Lead Flow Analysis Dashboard](https://github.com/Indra1912/bi-dashboard-portfolio/blob/main/Lead%20Flow%20Analysis.pbix)
+### 2. [Lead Flow Analysis Dashboard]([https://github.com/Indra1912/bi-dashboard-portfolio/blob/main/Lead%20Flow%20Analysis.pbix])
 Visualizes the customer acquisition funnel to identify stage-wise drop-offs and conversion insights.
 
 ### 3. [Global Export Trends](./Export-Trends-Analysis)
